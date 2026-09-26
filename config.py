@@ -24,4 +24,4 @@ TLS_DOMAIN = "www.google.com"
 
 # Tag for advertising, obtainable from @MTProxybot
 # Reads from Railway variables if available, otherwise uses fallback value
-AD_TAG = os.environ.get("AD_TAG", "17f57193b89df9a16688aa0e122ae69b)
+#AD_TAG = os.environ.get("AD_TAG", "17f57193b89df9a16688aa0e122ae69b)
