@@ -5,7 +5,7 @@ PORT = int(os.environ.get("PORT", 443))
 
 # User secrets (32 hex characters)
 USERS = {
-    "tg": "9630df34ae5fb7361e5b04ccc9d6f43",
+    "tg": "e9630df34ae5fb7361e5b04ccc9d6f43",
 }
 
 MODES = {
