@@ -1,7 +1,7 @@
 import os
 
 # Port to listen on
-PORT = int(os.environ.get("PORT", 8080))
+PORT = int(os.environ.get("PORT", 443))
 
 # User secrets (32 hex characters)
 USERS = {
